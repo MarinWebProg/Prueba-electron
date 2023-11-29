@@ -1,0 +1,15 @@
+{
+  "name": "prueba-electron",
+  "version": "1.0.0",
+  "description": "Prueba de electron js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Marin",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^27.1.2"
+  }
+}
